@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [ 'localhost', 
                   'sandra1muell-8000.theiadocker-3.proxy.cognitiveclass.ai',
+                  'syn.eu-gb.mybluemix.net'
                   '127.0.0.1']
 
 
